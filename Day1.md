@@ -10,3 +10,10 @@
 > ## Checkpoint @8:06 AM
 > - Accomplished : None
 > - Getting started on Neural Net article
+> ## Checkpoint @10L35 PM
+> ### Accomplished
+> - Got some insights on NLP Ass 6. 
+> - Gitted and inited Vista News Android
+> ### To Do Now
+> - NLP Ass 6, the initial part
+> - Android Splash Activity
