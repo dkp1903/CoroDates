@@ -7,3 +7,6 @@
 > - CPI complete history of NorthEast research
 > ## Checkpoint @12:25 AM
 > - Starting with cleaning the PC
+> ## Checkpoint @8:06 AM
+> - Accomplished : None
+> - Getting started on Neural Net article
