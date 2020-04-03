@@ -1,8 +1,8 @@
 > To Do
 > - Web Scraping Tutorial Traversy
 > - SEN
->   - Pull Pandey's changes
->   - npm install mapbox
+>   - ~Pull Pandey's changes~
+>   - ~npm install mapbox~
 >   - Follow step by step tutorial
 >   - Blog
 > - Ass 6
@@ -12,6 +12,6 @@
 > - Gatsby GFG - complete
 > - Happy Numbers understand
 > - Rotate an array - read through
-> - Mass mail Enunciate
+> - ~Mass mail Enunciate~
 > - Gatsby Mail
-> - Wlliam Alschner mail
+> - ~Wlliam Alschner mail~
